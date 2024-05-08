@@ -1,0 +1,15 @@
+{
+  "hash": "5486d8c4d323bfc67272bf0f25aad748",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Remake of visual representation of statistical data graphed in 1644 by Michael van Langren\"\ndescription: \"30 DayChart Challenge 2024 Makeover day\"\nformat:\n  html:\n    css: styles.css\n    code-fold: false\n    code-tools: true\n    code-line-numbers: true\n#doi: 10.59350/bje88-8r592\ncitation: true\ndraft: false\n---\n\n\n\n```{=html}\n<img src=\"/files/cards/1644.jpg\" alt=\"Michael Florent van Langren, 1644\">\n\n```",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

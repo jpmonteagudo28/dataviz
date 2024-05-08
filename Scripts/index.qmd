@@ -1,0 +1,35 @@
+---
+title: "Scripts"
+author: ""
+description: "Dataviz Scripts"
+listing:
+  - id: posts_2024
+    contents: "2024/**/index.qmd"
+    sort: "date desc"
+    template: ../html/Scripts/listing.ejs
+    categories: false
+format:
+  html:
+    grid:
+      body-width: 800px
+      sidebar-width: 250px
+toc-title: Year
+toc-location: right
+date-format: medium
+citation: false
+code-tools: false
+comments: false
+engine: knitr
+freeze: false
+---
+
+```{css, echo=FALSE}
+#title-block-header .description {
+    display: none;
+}
+```
+
+## 2024
+
+:::{#posts_2024}
+:::

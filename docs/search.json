@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DataViz",
+    "section": "",
+    "text": "Hi, welcome to DataViz!\n\n\nThis website is a collection of data, projects, and visualizations on topics that I find interesting and relevant. All the data and code here are publicly available so feel free to explore, learn, and use them for your own projects.\n\n jump right in →"
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "jp monteagudo",
+    "section": "",
+    "text": "Hello there,\n\nThanks for stopping by!\nI’m an aspiring epidemiologist currently pursuing post-graduate studies in Epidemiology at Liberty University. I’m interested in clinical epidemiology, epidemiological research methods, infectious diseases, pharmaco-epidemiology and nutritional epidemiology.\nI love statistics and the R programming language. I’m currently taking a deep dive into generalized linear models, causal inference and data visualization.\nNowadays, I work as a Learning & Development Specialist conducting a pilot study analyzing the impact of new hire training on performance in a fast-paced contact center environment."
+  },
+  {
+    "objectID": "Scripts/2024/30DCC/Makeover/index.html",
+    "href": "Scripts/2024/30DCC/Makeover/index.html",
+    "title": "Remake of visual representation of statistical data graphed in 1644 by Michael van Langren",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nMonteagudo, JP. n.d. “Remake of Visual Representation of\nStatistical Data Graphed in 1644 by Michael van Langren.” https://www.jpmonteagudo.com/Scripts/2024/30DCC/Makeover."
+  },
+  {
+    "objectID": "Resources/index.html",
+    "href": "Resources/index.html",
+    "title": "what i use",
+    "section": "",
+    "text": "A collection of programming tools, open–access books, sites, and data visualization principles in R from the web."
+  },
+  {
+    "objectID": "Resources/index.html#software-and-tools",
+    "href": "Resources/index.html#software-and-tools",
+    "title": "what i use",
+    "section": "Software and Tools",
+    "text": "Software and Tools\n\n\nR and Rstudio for statistical graphs and data analysis.\n\nQGIS, a free and open source software for geospatial data visualization.\n\nTableau Public — Tableau’s free version for interactive data visualization.\n\nDatawrapper — A drag–and–drop tool to create simple and interactive charts."
+  },
+  {
+    "objectID": "Resources/index.html#books",
+    "href": "Resources/index.html#books",
+    "title": "what i use",
+    "section": "Books",
+    "text": "Books\nOpen–Access books\n\n“Data Visualization: A practical Introduction” by Kieran Healy. A book on data visualization principles and techniques in R.\n“ggplot2: Elegant Graphics for Data Analysis” by Hadley Wickham. A book on ggplot2 package for data visualization in R.\n“R Graphics Cookbook” by Winston Chang. A practical guide to create hundreds of graphs using simple recipes.\n“Geocomputation with R” by Robin Lovelace, Jakub Nowosad, and Jannes Muenchow. A book on spatial data analysis and visualization in R.\n“Introduction to GIS” by Michael T. M. Gimond. A book on GIS principles and techniques in ArcGIS and R.\n“Efficient R Programming” by Colin Gillespie and Robin Lovelace. A book on efficient programming techniques in R.\n“Analyzing US Census Data” by Kyle Walker. A book on US Census data analysis and visualization using the tidycensus and other packages in R.\n“The Elements of Typographic Style” by Robert Bringhurst. A book on typography principles.\nNot so Open–Access books\n\n“Practical Typography” A book on typography principles and techniques in web design offered free of charge.\n“The Visual Display of Quantitative Information” by Edward Tufte. A book on data visualization principles and techniques.\n“Beautiful Evidence” by Edward Tufte. A book to understand, recognize and create beautiful in data."
+  },
+  {
+    "objectID": "Resources/index.html#galleries",
+    "href": "Resources/index.html#galleries",
+    "title": "what i use",
+    "section": "Galleries",
+    "text": "Galleries\n\n\nR Graph Gallery — A collection of hundreds of graphs and their code in R.\n\nggplot2 extensions — A collection of ggplot2 extensions for data visualization in R.\n\nTableau Public Gallery — A collection of interactive data visualizations in Tableau Public.\n\nQGIS Map Gallery — A collection of maps created in QGIS."
+  },
+  {
+    "objectID": "Resources/index.html#palettes",
+    "href": "Resources/index.html#palettes",
+    "title": "what i use",
+    "section": "Palettes",
+    "text": "Palettes\n\n\nR Color Palettes — A compehensive list of R discrete color palettes\n\nIwanthue — A cool way to generate optimally distinct color palettes for data scientists.\n\nPoolors — A collection of the most and least used color palettes by graphic designers.\n\nRayshader — Not exactly a palette but a package to create 2D and 3D visualizations in R."
+  },
+  {
+    "objectID": "Resources/index.html#sites",
+    "href": "Resources/index.html#sites",
+    "title": "what i use",
+    "section": "Sites",
+    "text": "Sites\n\nCédric Scherer\nAchim Tack\nDominic Royé\nGeorgios Karamanis\nIlya Kashnitsky\nNadieh Bremer\nWilliam Chase\nZan Armstrong\nThe Tidy Trekker"
+  },
+  {
+    "objectID": "Resources/index.html#challenges",
+    "href": "Resources/index.html#challenges",
+    "title": "what i use",
+    "section": "Challenges",
+    "text": "Challenges\n\n30 Day Chart Challenge\n30 Day Map Challenge\nTidyTuesday\nSOTI Challenge"
+  },
+  {
+    "objectID": "Scripts/index.html#section",
+    "href": "Scripts/index.html#section",
+    "title": "Scripts",
+    "section": "2024",
+    "text": "2024\n\n\n    \n    \n                  \n            \n        \n        \n            Remake of visual representation of statistical data graphed in 1644 by Michael van Langren\n\n            \n\n            30 DayChart Challenge 2024 Makeover day\n            \n        \n        \n    \n    \n\n\nNo matching items"
+  }
+]

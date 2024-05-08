@@ -1,0 +1,110 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "*.md"
+  resources:
+    - "files/**"
+
+    # Things that need to be at the site root
+    - "LiveSearchAuth.xml"
+    - "keybase.txt"
+    #- "y_key_31e0c4105fc75710.html"
+    - "pgp_jpm.asc.txt"
+
+execute:
+  freeze: auto
+
+bibliography: files/bib/references.bib
+csl: files/bib/chicago-author-date.csl
+
+# Metadata stuff
+pagetitle: "{{< meta title >}} | JP Monteagudo"
+author-meta: "JP Monteagudo"
+
+website:
+  title: "Home"
+  description: "JP is an aspiring epidemiologist currently pursuing his degree in epidemiology from Liberty University."
+  favicon: "/files/cards/favicon_no_bg.png"
+  site-url: "https://www.jpmonteagudo.com"
+  repo-url: "https://github.com/jpmonteagudo28/dataviz"
+  reader-mode: false
+  page-navigation: true
+  
+  google-analytics: "G-SM9D5VRX5P"
+
+  twitter-card: 
+    image: "/files/cards/favicon_no_bg.png"
+    card-style: summary_large_image
+    creator: "@jpPabl0"
+    site: "@jpPabl0"
+
+  open-graph: 
+    image: "/files/cards/favicon_no_bg.png"
+    locale: en_US
+  
+  navbar:
+    pinned: true
+
+
+    left:
+      - text: "Scripts"
+        href: "Scripts/index.qmd"
+      - text: "Gallery"
+        file: Images/index.qmd
+      - text: "Links"
+        file: Resources/index.qmd
+      - icon: download
+        text: "Downloads"
+        menu:
+          - text: Data
+            href: Data/dataviz_data.7z
+          - text: Scripts
+            href: Data/dataviz_scripts.7z
+          - text: Images
+            href: Data/dataviz_images.7z
+          - text: Fonts
+            href: Data/dataviz_fonts.7z
+    
+    right:
+      - icon: rss
+        aria-label: rss
+        href: atom.xml
+      - icon: github
+        aria-label: github
+        href: https://github.com/jpmonteagudo28
+        rel: me
+      #- icon: youtube
+        #aria-label: youtube
+        #href: https://www.youtube.com/@jpmonteagudo2893
+  
+  page-footer:
+    left: |
+      
+            
+    center: |
+      <span class="faux-block">{{< fa brands creative-commons >}} {{< var years >}} JP Monteagudo</span>
+      <span class="faux-block">All content licensed under<br>[{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</span>
+      <!-- <span class="faux-block">{{< fa brands orcid >}} <strong>ORCID</strong> [{{< var orcid >}}](https://orcid.org/{{< var orcid >}})</span> -->
+      <!-- <span class="faux-block">{{< fa key >}} [PGP public key]({{< var pgp.key >}}) &emsp; {{< fa fingerprint >}} Fingerprint:</strong><br><span class="fingerprint">{{< var pgp.fingerprint >}}</span></span> -->
+      
+    right: |
+      <!-- <span class="faux-block">{{< fa key >}} [PGP public key]({{< var pgp.key >}}) &emsp; {{< fa fingerprint >}} Fingerprint:</strong><br><span class="fingerprint">{{< var pgp.fingerprint >}}</span></span> -->
+
+format:
+  html:
+    theme: 
+      - html/jpm.scss
+    grid: 
+      body-width: 800px
+      sidebar-width: 250px
+      margin-width: 250px
+      gutter-width: 2.0em
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+    highlight-style: a11y
+  

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>JP&#39;s Dataviz</title>
+<link>https://www.jpmonteagudo.com/atom.html</link>
+<atom:link href="https://www.jpmonteagudo.com/atom.xml" rel="self" type="application/rss+xml"/>
+<description>JP&#39;s Dataviz</description>
+<language>en</language>
+<generator>quarto-1.4.550</generator>
+<lastBuildDate>Wed, 08 May 2024 19:40:54 GMT</lastBuildDate>
+<item>
+  <title>Remake of visual representation of statistical data graphed in 1644 by Michael van Langren</title>
+  <dc:creator>JP Monteagudo</dc:creator>
+  <link>https://www.jpmonteagudo.com/Scripts/2024/30DCC/Makeover/</link>
+  <description><![CDATA[ <img src="https://www.jpmonteagudo.com/files/cards/1644.jpg" alt="Michael Florent van Langren, 1644">
+
+<!-- -->
+
+
+<div id="quarto-appendix"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-monteagudo" class="csl-entry quarto-appendix-citeas">
+Monteagudo, JP. n.d. <span>“Remake of Visual Representation of
+Statistical Data Graphed in 1644 by Michael van Langren.”</span> <a href="https://www.jpmonteagudo.com/Scripts/2024/30DCC/Makeover">https://www.jpmonteagudo.com/Scripts/2024/30DCC/Makeover</a>.
+</div></div></section></div> ]]></description>
+  <guid>https://www.jpmonteagudo.com/Scripts/2024/30DCC/Makeover/</guid>
+  <pubDate>Wed, 08 May 2024 19:40:54 GMT</pubDate>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,27 @@
+---
+title: "Remake of visual representation of statistical data graphed in 1644 by Michael van Langren"
+description: "30 DayChart Challenge 2024 Makeover day"
+format:
+  html:
+    css: styles.css
+    code-fold: false
+    code-tools: true
+    code-line-numbers: true
+#doi: 10.59350/bje88-8r592
+citation: true
+draft: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(fig.align = "center", fig.retina = 3,
+                      fig.width = 5.5, fig.height = (5.5 * 0.618),
+                      out.width = "90%", collapse = TRUE)
+options(digits = 3, width = 300)
+
+```
+
+
+```{=html}
+<img src="/files/cards/1644.jpg" alt="Michael Florent van Langren, 1644">
+
+```

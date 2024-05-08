@@ -1,0 +1,85 @@
+---
+title: what i use
+date: 2024-05-08
+description: Dataviz resources, books, sites and inspiration
+title-block-banner: "#A52C60"
+published-title: Last updated
+toc: false
+#toc-location:left
+toc-title: "Contents"
+engine: knitr
+freeze: false
+format:
+  html:
+    css: styles.css
+---
+
+```{css, echo=FALSE}
+#title-block-header .description {
+    display: none;
+}
+```
+
+A collection of programming tools, open–access books, sites, and data visualization principles in R from the web.
+<br>
+<br>
+
+## Software and Tools
+
++ [R](https://www.r-project.org/) and [Rstudio](https://www.rstudio.com/) for statistical graphs and data analysis.
++ [QGIS](https://qgis.org/en/site/), a free and open source software for geospatial data visualization.
++ [Tableau Public](https://public.tableau.com/app/discover) — Tableau's free version for interactive data visualization.
++ [Datawrapper](https://www.datawrapper.de/) — A drag–and–drop tool to create simple and interactive charts.
+
+## Books
+
+### Open–Access books
+
++ “[Data Visualization: A practical Introduction](https://socviz.co/)” by Kieran Healy. A book on data visualization principles and techniques in R.
++ “[ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)” by Hadley Wickham. A book on ggplot2 package for data visualization in R.
++ “[R Graphics Cookbook](https://r-graphics.org/)” by Winston Chang. A practical guide to create hundreds of graphs using simple recipes.
++ “[Geocomputation with R](https://r.geocompx.org/)” by Robin Lovelace, Jakub Nowosad, and Jannes Muenchow. A book on spatial data analysis and visualization in R.
++ “[Introduction to GIS](https://mgimond.github.io/Spatial/index.html)” by Michael T. M. Gimond. A book on GIS principles and techniques in ArcGIS and R.
++ “[Efficient R Programming](https://bookdown.org/csgillespie/efficientR/)” by Colin Gillespie and Robin Lovelace. A book on efficient programming techniques in R.
++ “[Analyzing US Census Data](https://walker-data.com/census-r/)” by Kyle Walker. A book on US Census data analysis and visualization using the tidycensus and other packages in R.
++ “[The Elements of Typographic Style](https://readings.design/PDF/the_elements_of_typographic_style.pdf)” by Robert Bringhurst. A book on typography principles.
+
+### Not so Open–Access books
+
++ “[Practical Typography](https://practicaltypography.com/)” A book on typography principles and techniques in web design offered free of charge.
++ “[The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi)” by Edward Tufte. A book on data visualization principles and techniques.
++ “[Beautiful Evidence](https://www.edwardtufte.com/tufte/books_be)” by Edward Tufte. A book to understand, recognize and create beautiful in data.
+
+## Galleries
+
++ [R Graph Gallery](https://www.r-graph-gallery.com/) — A collection of hundreds of graphs and their code in R.
++ [ggplot2 extensions](https://exts.ggplot2.tidyverse.org/gallery/) — A collection of ggplot2 extensions for data visualization in R.
++ [Tableau Public Gallery](https://public.tableau.com/en-us/s/gallery) — A collection of interactive data visualizations in Tableau Public.
++ [QGIS Map Gallery](https://www.flickr.com/groups/qgis/pool/with/53556449482) — A collection of maps created in QGIS.
+
+## Palettes
+
++ [R Color Palettes](https://emilhvitfeldt.github.io/r-color-palettes/) — A compehensive list of R discrete color palettes
++ [Iwanthue](https://medialab.github.io/iwanthue/) — A cool way to generate optimally distinct color palettes for data scientists.
++ [Poolors](https://poolors.com/) — A collection of the most and least used color palettes by graphic designers.
++ [Rayshader](https://www.rayshader.com/) — Not exactly a palette but a package to create 2D and 3D visualizations in R.
+
+## Sites
+
++ [Cédric Scherer](https://www.cedricscherer.com/)
++ [Achim Tack](https://www.achim-tack.org/)
++ [Dominic Royé](https://dominicroye.github.io/en/)
++ [Georgios Karamanis](https://karaman.is/)
++ [Ilya Kashnitsky](https://ikashnitsky.phd/)
++ [Nadieh Bremer](https://www.visualcinnamon.com/)
++ [William Chase](https://www.williamrchase.com/)
++ [Zan Armstrong](https://zanarmstrong.com/)
++ [The Tidy Trekker](https://thetidytrekker.com/)
+
+## Challenges
+
++ [30 Day Chart Challenge](https://twitter.com/30daychartchall?lang=en)
++ [30 Day Map Challenge](https://30daymapchallenge.com/)
++ [TidyTuesday](https://github.com/rfordatascience/tidytuesday)
++ [SOTI Challenge](https://www.datavisualizationsociety.org/soti-challenge-2023)
+

@@ -1,0 +1,16 @@
+---
+---
+title: "JP's Dataviz"
+search: false
+listing:
+  sort: "date desc"
+  feed: 
+    title: "JP's Dataviz"
+    description: "JP's Dataviz"
+    items: 10
+    type: full
+    language: en
+  contents:
+    - "Scripts/**/index.qmd"
+    - "!Scripts/index.qmd"
+---
