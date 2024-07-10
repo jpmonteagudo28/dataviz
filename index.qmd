@@ -1,7 +1,7 @@
 ---
 title: "DataViz"
 pagetitle: "DataViz"
-subtitle: "open source, public data <br>for the public good."
+subtitle: "open source data <br>for the public good."
 image: /files/globe_final.gif
 title-block-banner: "#c7254a"
 format:
@@ -18,7 +18,7 @@ about:
 
 ::: {#hero-heading}
 <p style="font-weight: 500;">
-<i><span style="font-size:30px;">Hi, welcome to DataViz!</span></i>
+<b><span style="font-size:30px;">Hi, welcome to DataViz!</span></b>
 </p>
 <p style="font-weight: 400;">
 This website is a collection of **data, projects, and visualizations** on topics that I find interesting and relevant. All the data and code here are **publicly available** so feel free to explore, learn, and use them for your own projects.
